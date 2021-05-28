@@ -50,10 +50,16 @@ a:active {
     border-bottom: 1px solid #757575;
     ;
 }
+.card  {
+    box-sizing: border-box;
+}
 .card-header {
     font-size: 16px;
     font-weight: 400;
     color: #1D1D1D;
+}
+.card-photo {
+    width: 100%;
 }
 .card-text {
     font-size: 14px;
